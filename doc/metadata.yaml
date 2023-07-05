@@ -13,5 +13,7 @@ images:
 - doc/html/Pictures/image004.png
 - doc/html/Pictures/image002.png
 mark: 50
-tags: []
+tags:
+- mlab
+- mlab-module
 title: ATmega801
