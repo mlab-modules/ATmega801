@@ -4,13 +4,13 @@ github_repo: ATmega801
 github_url: https://github.com/mlab-modules/ATmega801
 homepage: false
 images:
-- doc/img/ATmega801A_small.jpg
 - doc/img/ATmega801A_bottom_big.jpg
+- doc/img/ATmega801A_small.jpg
 - doc/img/ATmega801A_big.jpg
 - doc/html/Pictures/image001.jpg
 - doc/img/ATmega801A_QRcode.png
-- doc/html/Pictures/image003.png
 - doc/html/Pictures/image004.png
+- doc/html/Pictures/image003.png
 - doc/html/Pictures/image002.png
 mark: 50
 status: 0
