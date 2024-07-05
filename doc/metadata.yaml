@@ -5,6 +5,7 @@ github_branch: ATmega801A
 github_repo: ATmega801
 github_url: https://github.com/mlab-modules/ATmega801
 homepage: false
+image_title: doc/img/ATmega801A_big.jpg
 images:
 - doc/img/ATmega801A_bottom_big.jpg
 - doc/img/ATmega801A_small.jpg
@@ -15,6 +16,7 @@ images:
 - doc/html/Pictures/image003.png
 - doc/html/Pictures/image002.png
 mark: 50
+replaced: ATmegaTQ3201
 status: 4
 tags:
 - mlab
